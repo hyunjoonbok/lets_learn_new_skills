@@ -24,6 +24,7 @@ This repository was have a personal archive of cool codes / projects in moslty M
    An all-in-one Pytorch starting codeset, which can be applied to many of real-world image classification tasks 
 	</p>
    May 19 2020
+   From [Sebastian Raschka Github](https://github.com/rasbt/deeplearning-models)
 
 
 <hr>
