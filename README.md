@@ -33,14 +33,6 @@ The codes contained should be used in industry right ahead if well tuned. Tweake
 
 ## R
 
-- ### Machine Learning
-
-   #### [(Kaggle) M5_Forecasting](https://github.com/hyunjoonbok/Python-Projects/blob/master/Kaggle/%5BKaggle%5D%20M5_Forecasting.ipynb): 
-   <p>
-   From Walmart sales data, forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. Pre-process (Feature Enginenering / Hyperparameter Optimization) given data and used LGB/XGB ensemble to generate a final submission. From [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/overview) in Kaggle. 
-	</p>
-   Mar 24, 2020	
-
 <hr>
 
 ## Contact
