@@ -4,7 +4,8 @@
 
 ## Motivation
 
-This repository was have a personal archive of cool codes / projects in moslty Machine Learning or Deep learning field. I would tweak a post from original author in order to expedite the learning process in a logical way.  
+This repository was have a personal archive of State-of-the-art codes / projects in moslty Machine Learning or Deep learning field. 
+The codes contained should be used in industry right ahead if well tuned. Tweaked a few parts of posts from original author in order to expedite the learning process in a logical way.  
 
 <hr>
 
