@@ -20,7 +20,7 @@ The codes contained are ready to be used in any industry right-away if well tune
 
 - ### Deep Learning
 
-   #### [Transfer Learning in Pytorch](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/f-AnoGAN%20(Image%20Anomaly%20Detection)%20in%20Pytorch%20.ipynb): 
+   #### [Transfer Learning in Pytorch](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Transfer%20Learning%20in%20Pytorch%20by%20building%20CIFAR-10%20model.ipynb): 
    <p>
     Transfer Learning complete model building by building CIFAR-10 model (VGG16 Pretrained on ImageNet). Freeze the last few layer to fit into CIFAR-10 tasks.
 	</p>
