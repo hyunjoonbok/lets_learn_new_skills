@@ -27,6 +27,14 @@ The codes contained should be used in industry right ahead if well tuned. Tweake
    May 19 2020
    
    From [Sebastian Raschka Github](https://github.com/rasbt/deeplearning-models)
+   
+   #### [AlexNet CIFAR-10 Classifier](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Basic%20Pytorch%20Concepts%20in%20practice%20by%20building%20MNIST%20CNN%20model%20.ipynb): 
+   <p>
+   An all-in-one Pytorch starting codeset, which can be applied to many of real-world image classification tasks 
+	</p>
+   May 19 2020
+   
+   From [Sebastian Raschka Github](https://github.com/rasbt/deeplearning-models)   
 
 
 <hr>
