@@ -20,6 +20,12 @@ The codes contained are ready to be used in any industry right-away if well tune
 
 - ### Deep Learning
 
+   #### [Prototypical Networks for Few-Shot-Learning in Pytorch](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Prototypical%20Networks%20for%20Few-Shot-Learning.ipynb): 
+   <p>
+    Basic walkthrough of Few-shot learning, that's been widely used in image classficiation with a limited training images. Build a model to classify Omniglot dataset (language characters) to correct classes. Using Image2vector CNN model.
+	</p>
+   May 20 2020
+
    #### [Transfer Learning in Pytorch](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Transfer%20Learning%20in%20Pytorch%20by%20building%20CIFAR-10%20model.ipynb): 
    <p>
     Transfer Learning complete model building by building CIFAR-10 model (VGG16 Pretrained on ImageNet). Freeze the last few layer to fit into CIFAR-10 tasks.
