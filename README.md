@@ -20,11 +20,18 @@ The codes contained are ready to be used in any industry right-away if well tune
 
 - ### Deep Learning
 
+   #### [Generate fluent English text using transformers GPT2](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Generate%20fluent%20English%20text%20using%20transformers%20GPT2.ipynb): 
+   <p>
+    A simple toy example to look at different decoder method provided by Transformer library. We look at different methods to see which decoder gerenates the most human-like languages when given texts.
+	</p>
+   Jun 5 2020
+
+
    #### [End-to-End Speech Recognition in Tensorflow](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/End-to-End%20Speech%20Recognition%20in%20Tensorflow.ipynb): 
    <p>
     Build a simpel End-to-End Speech-to-Text model using librosa library. The model takes recordings of 10 different classes or words (data from Kaggle Speech Recognition Challenge), trains algorithm that is in Convolutional 1D, and predicts the sound in text.
 	</p>
-   Jun 4 2020
+   Jun 3 2020
 
 
    #### [Image captioning with visual attention using Tensorflow 2.0](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Image%20captioning%20with%20visual%20attention%20using%20Tensorflow%202.0.ipynb): 
